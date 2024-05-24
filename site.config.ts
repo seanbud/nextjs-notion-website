@@ -10,12 +10,13 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Site',
-  domain: 'seanbudning.com',
+  name: "Sean's Next.js Portfolio",
+  domain: 'portfolio.seanbudning.com',
   author: 'Sean Budning',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description:
+    'This is my portfolio website. It is built with Next.js and Notion.',
 
   // social usernames (optional)
   twitter: '_seancory',
